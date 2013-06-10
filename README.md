@@ -1,12 +1,12 @@
 # fanout cookbook
 
-# Requirements
-
-# Usage
+Builds and installs fanout (https://github.com/travisghansen/fanout).
+Useful in conjucture with SparkleShare.
+See https://github.com/hbons/SparkleShare/wiki/Notification-service for more info.
 
 # Attributes
 
-# Recipes
+See `attributes/default.rb`
 
 # Author
 
